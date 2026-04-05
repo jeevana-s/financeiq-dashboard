@@ -114,19 +114,23 @@ An intelligent in-app assistant that enhances user experience:
 
  📈 Flow Curve
 <p align="center">
-  <img src="PASTE_IMAGE_LINK_HERE" width="900"/>
+  <img src="https://github.com/jeevana-s/financeiq-dashboard/blob/main/src/screenshots/flow%20curve.jpg" width="900"/>
 </p>
 
  🗺️ Spend Map
 <p align="center">
-  <img src="PASTE_IMAGE_LINK_HERE" width="900"/>
+  <img src="https://github.com/jeevana-s/financeiq-dashboard/blob/main/src/screenshots/spent%20map.jpg" width="900"/>
 </p>
 
  🧠 Smart Signals
 <p align="center">
-  <img src="PASTE_IMAGE_LINK_HERE" width="900"/>
+  <img src="https://github.com/jeevana-s/financeiq-dashboard/blob/main/src/screenshots/smart%20signals.jpg" width="900"/>
 </p>
 
+💳 Activity Leader 
+<p align="center">
+  <img src="https://github.com/jeevana-s/financeiq-dashboard/blob/main/src/screenshots/activity%20leader.jpg" width="900"/>
+</p>
 
 
  📦 Installation
