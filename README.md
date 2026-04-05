@@ -109,7 +109,7 @@ An intelligent in-app assistant that enhances user experience:
 
  🏠 Dashboard(cash pulse)
 <p align="center">
-  <img src="" width="900"/>
+  <img src="https://github.com/jeevana-s/financeiq-dashboard/blob/main/src/screenshots/cash%20pulse.jpg" width="900"/>
 </p>
 
  📈 Flow Curve
