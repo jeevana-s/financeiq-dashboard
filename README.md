@@ -1,7 +1,7 @@
 
  💸 FinanceIQ — AI Financial Intelligence Dashboard
 
-🔗 Live Demo: https://your-vercel-link.vercel.app
+🔗 Live Demo: https://financeiq-dashboard-six.vercel.app/
 
 FinanceIQ is a **premium AI-powered financial dashboard** designed to transform raw financial data into actionable insights.  
 It simulates a real-world fintech SaaS product with intelligent analytics, modern UI/UX, and interactive visualizations.
@@ -107,7 +107,25 @@ An intelligent in-app assistant that enhances user experience:
 
  📸 Screenshots
 
-> 🚨 Add 2–3 screenshots here (VERY IMPORTANT for recruiters)
+ 🏠 Dashboard(cash pulse)
+<p align="center">
+  <img src="" width="900"/>
+</p>
+
+ 📈 Flow Curve
+<p align="center">
+  <img src="PASTE_IMAGE_LINK_HERE" width="900"/>
+</p>
+
+ 🗺️ Spend Map
+<p align="center">
+  <img src="PASTE_IMAGE_LINK_HERE" width="900"/>
+</p>
+
+ 🧠 Smart Signals
+<p align="center">
+  <img src="PASTE_IMAGE_LINK_HERE" width="900"/>
+</p>
 
 
 
